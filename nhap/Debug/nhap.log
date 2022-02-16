@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\dell\source\repos\LinkedList\nhap\Source.cpp(38,14): error C3646: 'begin': unknown override specifier
+C:\Users\dell\source\repos\LinkedList\nhap\Source.cpp(90): message : see reference to class template instantiation 'DLinkedList<T>' being compiled
+C:\Users\dell\source\repos\LinkedList\nhap\Source.cpp(38,19): error C2059: syntax error: '('
+C:\Users\dell\source\repos\LinkedList\nhap\Source.cpp(39,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\dell\source\repos\LinkedList\nhap\Source.cpp(42,14): error C3646: 'end': unknown override specifier
+C:\Users\dell\source\repos\LinkedList\nhap\Source.cpp(42,17): error C2059: syntax error: '('
+C:\Users\dell\source\repos\LinkedList\nhap\Source.cpp(43,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\dell\source\repos\LinkedList\nhap\Source.cpp(435,42): error C2039: 'begin': is not a member of 'DLinkedList<int>'
+C:\Users\dell\source\repos\LinkedList\nhap\Source.cpp(430): message : see declaration of 'DLinkedList<int>'
+C:\Users\dell\source\repos\LinkedList\nhap\Source.cpp(435,35): error C2512: 'DLinkedList<int>::Iterator': no appropriate default constructor available
+C:\Users\dell\source\repos\LinkedList\nhap\Source.cpp(71,1): message : see declaration of 'DLinkedList<int>::Iterator'
+C:\Users\dell\source\repos\LinkedList\nhap\Source.cpp(436,23): error C2039: 'end': is not a member of 'DLinkedList<int>'
+C:\Users\dell\source\repos\LinkedList\nhap\Source.cpp(430): message : see declaration of 'DLinkedList<int>'

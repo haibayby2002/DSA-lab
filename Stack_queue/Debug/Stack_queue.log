@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\dell\source\repos\LinkedList\Stack_queue\Source.cpp(178,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\source\repos\LinkedList\Stack_queue\Source.cpp(248,35): warning C4018: '<': signed/unsigned mismatch
+  Stack_queue.vcxproj -> C:\Users\dell\source\repos\LinkedList\Debug\Stack_queue.exe

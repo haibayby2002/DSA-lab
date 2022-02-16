@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\dell\source\repos\LinkedList\Search\Source.cpp(35,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dell\source\repos\LinkedList\Search\Source.cpp(86,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dell\source\repos\LinkedList\Search\Source.cpp(96,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Search.vcxproj -> C:\Users\dell\source\repos\LinkedList\Debug\Search.exe
